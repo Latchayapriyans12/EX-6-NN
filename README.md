@@ -118,7 +118,19 @@ plt.show()
 
 ```
 
-<H3>Output:</H3>
-EX-6-NN/Screenshot 2026-03-16 142048.png
+
+<H3>OUTPUT:</H3>
+<h3>Training</h3>
+
+![alt text](<Screenshot 2026-03-16 142425.png>)
+![alt text](<Screenshot 2026-03-16 142431.png>)
+
+<h3>confusion matrix and classification report</h3>
+
+![alt text](<Screenshot 2026-03-16 142533.png>)
+
+<h3>MLP training loss convergence graph</h3>
+
+![alt text](<Screenshot 2026-03-16 142048.png>)
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
